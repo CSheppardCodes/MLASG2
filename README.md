@@ -8,7 +8,7 @@ DryBeanDataset - classification, used XGBoost scikitlearn DTC, random forest, an
 
 abalone - Regression, SKLearn Linear Regression model
 
-asg3 - Clustering, KMeans
+asg3 - SGDRegressorOLSNewsData.ipynb
 
 heart+disease 
 
@@ -17,7 +17,5 @@ online+news+popularity/OnlineNewsPopularity Clustering, KNN
 Data Science Linear Regression - Regression 
 
 wine - classification
-
-SGDRegressorOLSNewsData.ipynb
 
 iris.csv - classification, 
