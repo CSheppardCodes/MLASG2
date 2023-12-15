@@ -10,9 +10,10 @@
 - SGDRegressorOLSNewsData.ipynb
 
 ## heart+disease 
+- Classification
 
 ## online+news+popularity/OnlineNewsPopularity 
-Clustering, KNN
+- Clustering, KNN
 
 ## Data Science Linear Regression 
 - Regression 
