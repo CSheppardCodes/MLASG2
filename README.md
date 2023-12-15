@@ -1,21 +1,24 @@
 # MLDatasetsUCI
-ML Multi layer perceptron iris dataset
-ML Kmeans clustering twitter tweets dataset
 
+## DryBeanDataset 
+- classification, used XGBoost scikitlearn DTC, random forest, and ADABoost. 
 
+## abalone 
+- Regression, SKLearn Linear Regression model
 
-DryBeanDataset - classification, used XGBoost scikitlearn DTC, random forest, and ADABoost. 
+## asg3 
+- SGDRegressorOLSNewsData.ipynb
 
-abalone - Regression, SKLearn Linear Regression model
+## heart+disease 
 
-asg3 - SGDRegressorOLSNewsData.ipynb
+## online+news+popularity/OnlineNewsPopularity 
+Clustering, KNN
 
-heart+disease 
+## Data Science Linear Regression 
+- Regression 
 
-online+news+popularity/OnlineNewsPopularity Clustering, KNN
+## wine 
+- classification
 
-Data Science Linear Regression - Regression 
-
-wine - classification
-
-iris.csv - classification, 
+## iris.csv 
+- classification, 
